@@ -3,3 +3,10 @@ pandas
 numpy
 joblib
 scikit-learn
+imblearn
+sklearn
+xgboost
+catboost
+lightgbm
+datasist
+plotly
