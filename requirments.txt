@@ -1,7 +1,5 @@
-pandas 
-numpy
-sklearn
-imblearn
-datasist
-joblib
 streamlit
+pandas
+numpy
+joblib
+scikit-learn
