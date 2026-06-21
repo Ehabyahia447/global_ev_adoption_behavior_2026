@@ -3,8 +3,7 @@ pandas
 numpy
 joblib
 scikit-learn
-imblearn
-sklearn
+imbalanced-learn
 xgboost
 catboost
 lightgbm
