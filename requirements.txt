@@ -2,10 +2,4 @@ streamlit
 pandas
 numpy
 joblib
-sklearn
-imbalanced-learn
-xgboost
-catboost
-lightgbm
-datasist
-plotly
+scikit-learn==1.5.2
